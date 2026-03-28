@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ainavi-kappa.vercel.app/sitemap.xml
